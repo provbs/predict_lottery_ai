@@ -1,6 +1,6 @@
 # predict_lottery_ai
 
-![image](https://user-images.githubusercontent.com/97097656/199012152-408aa81a-0903-4b36-9a53-0346493e2671.png)
+![image](https://user-images.githubusercontent.com/97097656/199012239-dd58a079-3b30-4287-a736-5b18b4fcdf31.png)
 
 2022.05월 (1인 프로젝트)
 
